@@ -1,0 +1,17 @@
+{
+  "name": "youtube-video-rename",
+  "description": "Script that lets you automate renaming a video on your YouTube channel.",
+  "authors": "Andrey Radchishin",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "dependencies": {
+    "fs-extra": "7.0.1",
+    "googleapis": "36.0.0",
+    "google-auth-library": "2.0.2",
+    "meow": "5.0.0",
+    "moment": "2.23.0"
+  },
+  "bin": {
+    "youtube-video-rename": "./cli.js"
+  }
+}
