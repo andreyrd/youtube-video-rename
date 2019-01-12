@@ -2,6 +2,7 @@
   "name": "youtube-video-rename",
   "description": "Script that lets you automate renaming a video on your YouTube channel.",
   "authors": "Andrey Radchishin",
+  "license": "MIT",
   "version": "1.0.0",
   "main": "cli.js",
   "dependencies": {
