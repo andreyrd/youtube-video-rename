@@ -3,6 +3,15 @@
 ## What is it?
 This script helps you rename your YouTube channel video title from the command line. This is very useful when you do regular channel live streams and want to somehow automate the process of renaming your channel's default live stream video.
 
+## How do I install it?
+```
+npm install -g youtube-video-rename
+```
+or
+```
+yarn global add youtube-video-rename
+```
+
 ## How do I use it?
 
 ### Client Secret
